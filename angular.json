@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "exBlogArchives"
+    }
+  },
+  "defaultProject": "exBlogArchives",
+  "cli": {
+    "analytics": false
+  }
 }
